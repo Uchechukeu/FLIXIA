@@ -1,0 +1,43 @@
+.first {
+	background-color: lightgreen;
+}
+body {
+	background-image: url(downloaded.jpg);
+	background-size: cover;
+	padding: 5px;
+	width: 200px;
+	height: 1000px;
+}
+	
+
+.fir {
+	text-align: center;
+	text-decoration: !important;
+	margin: 50;
+	padding: 7px;
+	width: 900;
+}
+.image {
+	width:  50px;
+	padding: 6px;
+}
+.left {
+	margin-left: 70px;
+}
+.circle {
+	width: 1700px;
+	background-color: transparent;
+	box-shadow: 90pxs;
+	text-decoration-color: whitesmoke;
+}
+.table {
+	width: 100px;
+	margin-left: 70px;
+}
+.about {
+	width: 1700px;
+	background-color: transparent;
+	box-shadow: 90pxs;
+	margin-left: 200px;
+	text-decoration-color: whitesmoke;
+}
